@@ -1,5 +1,9 @@
 Hello shibes!
 
+More details about this here:
+http://jpyth.com/?p=225
+
+
 This tar file is confirmed to work with the 64bit 12.04 Ubuntu Live CD. You can get it here:
 http://www.ubuntu.com/start-download?distro=desktop&bits=64&release=lts
 
