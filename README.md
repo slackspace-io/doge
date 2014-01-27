@@ -10,7 +10,7 @@ I will write up details at another time on creating the live CD itself, the rest
 #Prep
 You will want to save dogecoin-qt-1.5-ubuntu-12.04-Live-Install.tar to something you can retrieve while running the live CD. Either on another partition on your USB stick, on another USB stick, CD/DVD, 80 floppies.. whatever!
 
-#action
+#Action
 1.) Launch a terminal
 2.) Mount/access what you saved dogecoin-qt-1.5-ubuntu-12.04-Live-Install.tar on and navigate to it's location.
 3.) Run 'tar -xvf dogecoin-qt-1.5-ubuntu-12.04-Live-Install.tar' 
