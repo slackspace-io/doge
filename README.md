@@ -19,11 +19,12 @@ You will want to save dogecoin-qt-1.5-ubuntu-12.04-Live-Install.tar to something
 2.) Mount/access what you saved dogecoin-qt-1.5-ubuntu-12.04-Live-Install.tar on and navigate to it's location.
 3.) Run 'tar -xvf dogecoin-qt-1.5-ubuntu-12.04-Live-Install.tar' 
 4.) Run 'cd dogecoin-qt-1.5-ubuntu-12.04-Live-Install'
-5.) Run './install.sh'
-6.) .. Wait and watch
-7.) dogecoin-master-1.5
-8.) ./dogecoin-qt 
-9.) To the moon!
+5.) Run 'sudo chmod +x install.sh'
+6.) Run 'sudo ./install.sh'
+7.) .. Wait and watch
+8.) Run 'cd dogecoin-master-1.5'
+9.) Run './dogecoin-qt' 
+10.) To the moon!
 
 
 
